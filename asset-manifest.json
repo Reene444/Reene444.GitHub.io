@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/io/static/css/main.4e281b73.css",
-    "main.js": "/io/static/js/main.c460eeab.js",
+    "main.js": "/io/static/js/main.c0a1849a.js",
     "static/media/fantasy_game_inn2-transformed.glb": "/io/static/media/fantasy_game_inn2-transformed.2b0784372a7e26061e1a.glb",
     "static/media/ghost_w_tophat-transformed.glb": "/io/static/media/ghost_w_tophat-transformed.ec8a3675c653d3822bb1.glb",
     "index.html": "/io/index.html",
     "main.4e281b73.css.map": "/io/static/css/main.4e281b73.css.map",
-    "main.c460eeab.js.map": "/io/static/js/main.c460eeab.js.map"
+    "main.c0a1849a.js.map": "/io/static/js/main.c0a1849a.js.map"
   },
   "entrypoints": [
     "static/css/main.4e281b73.css",
-    "static/js/main.c460eeab.js"
+    "static/js/main.c0a1849a.js"
   ]
 }
