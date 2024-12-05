@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/io/static/css/main.44a34b5f.css",
-    "main.js": "/io/static/js/main.77802833.js",
+    "main.css": "/io/static/css/main.42d10262.css",
+    "main.js": "/io/static/js/main.65056c55.js",
+    "static/js/369.31b16e1e.chunk.js": "/io/static/js/369.31b16e1e.chunk.js",
+    "static/js/628.3042e1f5.chunk.js": "/io/static/js/628.3042e1f5.chunk.js",
+    "static/js/809.015d3bbb.chunk.js": "/io/static/js/809.015d3bbb.chunk.js",
     "static/media/raichu.glb": "/io/static/media/raichu.36089dc1319c127db24d.glb",
     "static/media/heli-ball.glb": "/io/static/media/heli-ball.0fd1aeb59dd512ab0c17.glb",
     "static/media/ball.glb": "/io/static/media/ball.49f23edd80a87c0214dc.glb",
@@ -9,11 +12,14 @@
     "static/media/fantasy_game_inn2-transformed.glb": "/io/static/media/fantasy_game_inn2-transformed.2b0784372a7e26061e1a.glb",
     "static/media/ghost_w_tophat-transformed.glb": "/io/static/media/ghost_w_tophat-transformed.ec8a3675c653d3822bb1.glb",
     "index.html": "/io/index.html",
-    "main.44a34b5f.css.map": "/io/static/css/main.44a34b5f.css.map",
-    "main.77802833.js.map": "/io/static/js/main.77802833.js.map"
+    "main.42d10262.css.map": "/io/static/css/main.42d10262.css.map",
+    "main.65056c55.js.map": "/io/static/js/main.65056c55.js.map",
+    "369.31b16e1e.chunk.js.map": "/io/static/js/369.31b16e1e.chunk.js.map",
+    "628.3042e1f5.chunk.js.map": "/io/static/js/628.3042e1f5.chunk.js.map",
+    "809.015d3bbb.chunk.js.map": "/io/static/js/809.015d3bbb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.44a34b5f.css",
-    "static/js/main.77802833.js"
+    "static/css/main.42d10262.css",
+    "static/js/main.65056c55.js"
   ]
 }
