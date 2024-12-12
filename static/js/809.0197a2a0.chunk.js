@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkio=self.webpackChunkio||[]).push([[809],{1809:(e,o,t)=>{t.r(o),t.d(o,{default:()=>a});t(9533);var s=t(281),c=t(9567),i=t(9465);s.p.preload(c.cx);const a=e=>{let{position:o=[0,0,0],rotation:t=[0,0,0],scale:a=1}=e;const{scene:n}=(0,s.p)(c.cx);return(0,i.jsx)("primitive",{object:n,position:o,rotation:t,scale:a,castShadow:!0,receiveShadow:!0})}}}]);
+//# sourceMappingURL=809.0197a2a0.chunk.js.map
