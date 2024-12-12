@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkecctrl_fisheye=self.webpackChunkecctrl_fisheye||[]).push([[957],{5957:(e,t,o)=>{o.r(t),o.d(t,{default:()=>i});o(8401);var s=o(6465),c=o(3971),r=o(9141);s.p.preload(c.or);const i=e=>{let{position:t=[0,0,0],rotation:o=[0,0,0],scale:i=1}=e;const{scene:a}=(0,s.p)(c.or);return(0,r.jsx)("primitive",{object:a,position:t,rotation:o,scale:i,castShadow:!0,receiveShadow:!0})}}}]);
+//# sourceMappingURL=957.dfd95022.chunk.js.map
