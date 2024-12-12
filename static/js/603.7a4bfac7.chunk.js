@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkio=self.webpackChunkio||[]).push([[603],{603:(e,o,t)=>{t.r(o),t.d(o,{default:()=>a});t(8273);var s=t(8052),c=t(6307),i=t(6725);s.p.preload(c.cx);const a=e=>{let{position:o=[0,0,0],rotation:t=[0,0,0],scale:a=1}=e;const{scene:n}=(0,s.p)(c.cx);return(0,i.jsx)("primitive",{object:n,position:o,rotation:t,scale:a,castShadow:!0,receiveShadow:!0})}}}]);
