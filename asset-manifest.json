@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/io/static/css/main.384d6443.css",
-    "main.js": "/io/static/js/main.08aa7a9e.js",
+    "main.js": "/io/static/js/main.cade4512.js",
     "static/js/147.3d132cc0.chunk.js": "/io/static/js/147.3d132cc0.chunk.js",
     "static/js/346.8d070389.chunk.js": "/io/static/js/346.8d070389.chunk.js",
     "static/js/603.7a4bfac7.chunk.js": "/io/static/js/603.7a4bfac7.chunk.js",
@@ -10,6 +10,7 @@
     "static/media/ball.glb": "/io/static/media/ball.49f23edd80a87c0214dc.glb",
     "static/media/shiba.glb": "/io/static/media/shiba.3db032cc5da0a1818cd4.glb",
     "static/media/night.hdr": "/io/static/media/night.9b906cbcd13f7de9c16c.hdr",
+    "static/media/cute_robot.glb": "/io/static/media/cute_robot.b1edbbfd936f1c2bfb82.glb",
     "static/media/inn2-transformed.glb": "/io/static/media/inn2-transformed.2b0784372a7e26061e1a.glb",
     "static/media/ghost-transformed.glb": "/io/static/media/ghost-transformed.ec8a3675c653d3822bb1.glb",
     "static/media/githubText.glb": "/io/static/media/githubText.b8064f96eb8859742469.glb",
@@ -20,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.384d6443.css",
-    "static/js/main.08aa7a9e.js"
+    "static/js/main.cade4512.js"
   ]
 }
